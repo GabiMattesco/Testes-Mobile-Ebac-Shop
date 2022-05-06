@@ -7,12 +7,14 @@ exports.config = {
     specs: [
         './test/specs/**/*.js'
     ],
-    framework: 'mocha'
+    framework: 'mocha',
     capabilities: [{
         "platformName": "Android",
         "platformVersion": "9.0",
         "deviceName": "ebac-qe",
         "automationName": "UiAutomator2",
-        "app": join(process.cwd(), )
-    }] 
+        "app": join(process.cwd(), './app/android/loja-ebac.apk'),
+        "appWaitActivity": 'com.woocommerce.android.ui.login.LoginActivity' 
+
+    }]
 }

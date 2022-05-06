@@ -7,17 +7,9 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "wdio": "wdio run wdio.conf.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/GabiMattesco/Testes-Mobile-Ebac-Shop.git"
-    },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/GabiMattesco/Testes-Mobile-Ebac-Shop/issues"
-    },
-    "homepage": "https://github.com/GabiMattesco/Testes-Mobile-Ebac-Shop#readme",
     "devDependencies": {
         "@badisi/wdio-harness": "^1.0.4",
         "@wdio/appium-service": "^7.19.5",
