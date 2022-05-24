@@ -1,0 +1,41 @@
+{
+  "bf144e4cc4acd18433e3af2335de411f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "961c6d3e9c045761",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+      "time" : {
+        "start" : 1653396349758,
+        "stop" : 1653396410101,
+        "duration" : 60343
+      }
+    } ]
+  },
+  "d0ff5b0df68724104105ffdc3d849f88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3470a0a31dc245f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653396965444,
+        "stop" : 1653396995032,
+        "duration" : 29588
+      }
+    } ]
+  }
+}

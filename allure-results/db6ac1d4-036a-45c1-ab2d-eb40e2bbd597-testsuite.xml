@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653395431683' stop='1653395470989'>
+    <name>Access Admin Panel</name>
+    <title>Access Admin Panel</title>
+    <test-cases>
+        <test-case start='1653395431683' status='broken' stop='1653395470984'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-qe 11.0-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>A session is either terminated or not started</message>
+                <stack-trace>invalid session id: A session is either terminated or not started
+                    at getErrorFromResponseBody (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\utils.js:197:12)
+                    at NodeJSRequest._request (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\request\index.js:166:60)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Browser.$ (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriverio\build\commands\browser\$.js:91:17)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async LoginScreen.twoFactorLogin (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\screens\login.screen.js:49:9)
+                    at async Context.&lt;anonymous> (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\specs\login.spec.js:17:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,62 @@
+{
+  "uid" : "e5c5a4e6f1eae264",
+  "name" : "should login with valid credentials",
+  "fullName" : "Access Admin Panel.should login with valid credentials",
+  "historyId" : "bf144e4cc4acd18433e3af2335de411f",
+  "time" : {
+    "start" : 1653395889541,
+    "stop" : 1653395922771,
+    "duration" : 33230
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"id:login_enter_password\") still not existing after 10000ms",
+  "statusTrace" : "Error: element (\"id:login_enter_password\") still not existing after 10000ms\n                    at C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:66:23\n                    at async Element.wrapCommandFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.wrapCommandFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async LoginScreen.clickTwoFactorButton (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\screens\\login.screen.js:44:9)\n                    at async Context.<anonymous> (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js:16:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testClass",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "ebac-qe 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5c5a4e6f1eae264.json",
+  "parameterValues" : [ "ebac-qe 11.0-11" ]
+}

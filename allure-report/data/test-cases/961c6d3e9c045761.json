@@ -1,0 +1,670 @@
+{
+  "uid" : "961c6d3e9c045761",
+  "name" : "should login with valid credentials",
+  "fullName" : "Access Admin Panel.should login with valid credentials",
+  "historyId" : "bf144e4cc4acd18433e3af2335de411f",
+  "time" : {
+    "start" : 1653396349758,
+    "stop" : 1653396410101,
+    "duration" : 60343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)\n                    at createTimeoutError (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:559:17)\n                    at processTimers (node:internal/timers:502:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 65,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+    "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)\n                    at createTimeoutError (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:559:17)\n                    at processTimers (node:internal/timers:502:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f299d69e998fab",
+      "name" : "Execution video",
+      "source" : "6f299d69e998fab.mp4",
+      "type" : "video/mp4",
+      "size" : 181
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testClass",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "ebac-qe 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8cbf0be4ba124ae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653396118192,
+        "stop" : 1653396174393,
+        "duration" : 56201
+      }
+    }, {
+      "uid" : "e5c5a4e6f1eae264",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:login_enter_password\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1653395889541,
+        "stop" : 1653395922771,
+        "duration" : 33230
+      }
+    }, {
+      "uid" : "fa546ede5c43c8ba",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 40000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+      "time" : {
+        "start" : 1653395658101,
+        "stop" : 1653395698200,
+        "duration" : 40099
+      }
+    }, {
+      "uid" : "38c3b335b33640f5",
+      "status" : "broken",
+      "statusDetails" : "A session is either terminated or not started",
+      "time" : {
+        "start" : 1653395431683,
+        "stop" : 1653395470984,
+        "duration" : 39301
+      }
+    }, {
+      "uid" : "30a41e057060453a",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 40000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+      "time" : {
+        "start" : 1653395186677,
+        "stop" : 1653395226908,
+        "duration" : 40231
+      }
+    }, {
+      "uid" : "b0ab57fee2421e23",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1652878994216,
+        "stop" : 1652879014386,
+        "duration" : 20170
+      }
+    }, {
+      "uid" : "b2021c8443910d2a",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1652878922091,
+        "stop" : 1652878942245,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "da9545b223162f5a",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652878834800,
+        "stop" : 1652878839943,
+        "duration" : 5143
+      }
+    }, {
+      "uid" : "d0bd51b85eae9c7e",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652878759750,
+        "stop" : 1652878764881,
+        "duration" : 5131
+      }
+    }, {
+      "uid" : "2a0d7592b6344a6a",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:bottom_button\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1652878685131,
+        "stop" : 1652878699376,
+        "duration" : 14245
+      }
+    }, {
+      "uid" : "6b3d4e470473aeb7",
+      "status" : "broken",
+      "statusDetails" : "element (\"~My store\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1652878562944,
+        "stop" : 1652878601726,
+        "duration" : 38782
+      }
+    }, {
+      "uid" : "45646d5cd88b376a",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652878437303,
+        "stop" : 1652878442482,
+        "duration" : 5179
+      }
+    }, {
+      "uid" : "e5980bb7b3d089fb",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 30000ms",
+      "time" : {
+        "start" : 1652878340845,
+        "stop" : 1652878370982,
+        "duration" : 30137
+      }
+    }, {
+      "uid" : "c400a7fbc0e2bcdd",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1652878269260,
+        "stop" : 1652878289413,
+        "duration" : 20153
+      }
+    }, {
+      "uid" : "57eecee2cadf6f61",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 20000ms exceeded. The execution in the test \"Access Admin Panel should login with valid credentials\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\repositorio\\Testes-Mobile-Ebac-Shop\\Testes-Mobile-Ebac-Shop\\test\\specs\\login.spec.js)",
+      "time" : {
+        "start" : 1652878184479,
+        "stop" : 1652878204490,
+        "duration" : 20011
+      }
+    }, {
+      "uid" : "5d0588dc210b3f72",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1652877512567,
+        "stop" : 1652877532725,
+        "duration" : 20158
+      }
+    }, {
+      "uid" : "15f51a93026d4c61",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1652877345441,
+        "stop" : 1652877365566,
+        "duration" : 20125
+      }
+    }, {
+      "uid" : "bbb7aae3cb113089",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1652877289950,
+        "stop" : 1652877300100,
+        "duration" : 10150
+      }
+    }, {
+      "uid" : "cb87e9a04d8217d4",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652877156767,
+        "stop" : 1652877161945,
+        "duration" : 5178
+      }
+    }, {
+      "uid" : "1a9cb69c7a0d77d4",
+      "status" : "broken",
+      "statusDetails" : "Can't call elementClick on element with selector \"id:bottom_button\" because element wasn't found",
+      "time" : {
+        "start" : 1652877056404,
+        "stop" : 1652877066844,
+        "duration" : 10440
+      }
+    }, {
+      "uid" : "e7f1caedb74835b3",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:login_enter_password\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1652876894361,
+        "stop" : 1652876921799,
+        "duration" : 27438
+      }
+    }, {
+      "uid" : "4334dfcf9702642e",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652830938058,
+        "stop" : 1652830968417,
+        "duration" : 30359
+      }
+    }, {
+      "uid" : "f1678b201dd9a2",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652799887144,
+        "stop" : 1652799913170,
+        "duration" : 26026
+      }
+    }, {
+      "uid" : "68e0307bb5a1174d",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652799341563,
+        "stop" : 1652799370891,
+        "duration" : 29328
+      }
+    }, {
+      "uid" : "94814b94a5555884",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652797934482,
+        "stop" : 1652797970305,
+        "duration" : 35823
+      }
+    }, {
+      "uid" : "fbd14f9747a44e40",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"My store\"\n                Received: false",
+      "time" : {
+        "start" : 1652797618966,
+        "stop" : 1652797644990,
+        "duration" : 26024
+      }
+    }, {
+      "uid" : "afb532a6b63bd5a0",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"My Store\"\n                Received: false",
+      "time" : {
+        "start" : 1652797422522,
+        "stop" : 1652797448640,
+        "duration" : 26118
+      }
+    }, {
+      "uid" : "ea90c193cf6252c4",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652797107521,
+        "stop" : 1652797135519,
+        "duration" : 27998
+      }
+    }, {
+      "uid" : "28376617bafe694",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"android.view.View\" because element wasn't found",
+      "time" : {
+        "start" : 1652796344516,
+        "stop" : 1652796380714,
+        "duration" : 36198
+      }
+    }, {
+      "uid" : "3d4eb8b0184a2e52",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: undefined\n                Received: false",
+      "time" : {
+        "start" : 1652796165078,
+        "stop" : 1652796190560,
+        "duration" : 25482
+      }
+    }, {
+      "uid" : "6c17805b1e7abcd1",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"My store\"\n                Received: false",
+      "time" : {
+        "start" : 1652796090850,
+        "stop" : 1652796115471,
+        "duration" : 24621
+      }
+    }, {
+      "uid" : "148accd3f347d544",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"My store\"\n                Received: false",
+      "time" : {
+        "start" : 1652795814444,
+        "stop" : 1652795839059,
+        "duration" : 24615
+      }
+    }, {
+      "uid" : "6e12e62893383e5e",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652795374575,
+        "stop" : 1652795403817,
+        "duration" : 29242
+      }
+    }, {
+      "uid" : "cc0801adb5e961a6",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1652794654917,
+        "stop" : 1652794679774,
+        "duration" : 24857
+      }
+    }, {
+      "uid" : "2cb0d2bcae8d0be1",
+      "status" : "broken",
+      "statusDetails" : "element (\"~My store\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1652794418543,
+        "stop" : 1652794457264,
+        "duration" : 38721
+      }
+    }, {
+      "uid" : "bf077919fba5f950",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652672986980,
+        "stop" : 1652673004898,
+        "duration" : 17918
+      }
+    }, {
+      "uid" : "254cc0f0c1f232ab",
+      "status" : "broken",
+      "statusDetails" : "org.eclipse.wst.xml.xpath2.processor.XPathParserException: CUP parser error: Parser error: line 1 col 3: /",
+      "time" : {
+        "start" : 1652671097904,
+        "stop" : 1652671113051,
+        "duration" : 15147
+      }
+    }, {
+      "uid" : "a998ed254bfd7635",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//android.widget.Button[3]\" because element wasn't found",
+      "time" : {
+        "start" : 1652670957454,
+        "stop" : 1652670974982,
+        "duration" : 17528
+      }
+    }, {
+      "uid" : "29cb8b155cbf85e1",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652670822830,
+        "stop" : 1652670840497,
+        "duration" : 17667
+      }
+    }, {
+      "uid" : "862c6ef3d9bf7a8e",
+      "status" : "broken",
+      "statusDetails" : "Unsupported strategy: 'id'. The only supported strategies are: [accessibility id, class name, -android uiautomator].",
+      "time" : {
+        "start" : 1652670754872,
+        "stop" : 1652670758902,
+        "duration" : 4030
+      }
+    }, {
+      "uid" : "b782792bb418f923",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"android=new UiSelector().text(\"Continue with store credentials\")\" because element wasn't found",
+      "time" : {
+        "start" : 1652669698150,
+        "stop" : 1652669705164,
+        "duration" : 7014
+      }
+    }, {
+      "uid" : "a51ccd0633bc6f4f",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652640090882,
+        "stop" : 1652640097788,
+        "duration" : 6906
+      }
+    }, {
+      "uid" : "fd4f781f1762f208",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652639891977,
+        "stop" : 1652639899855,
+        "duration" : 7878
+      }
+    }, {
+      "uid" : "c6808de7d543f1bd",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652639779069,
+        "stop" : 1652639785638,
+        "duration" : 6569
+      }
+    }, {
+      "uid" : "4b8709c7ef67bf66",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652639601615,
+        "stop" : 1652639609722,
+        "duration" : 8107
+      }
+    }, {
+      "uid" : "2d45bd40d3fccb57",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id=login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652639485484,
+        "stop" : 1652639493016,
+        "duration" : 7532
+      }
+    }, {
+      "uid" : "fcf2010d19349b49",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652639312023,
+        "stop" : 1652639324938,
+        "duration" : 12915
+      }
+    }, {
+      "uid" : "ad2174e0d1e63b29",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_enter_password\" because element wasn't found",
+      "time" : {
+        "start" : 1652638363172,
+        "stop" : 1652638387955,
+        "duration" : 24783
+      }
+    }, {
+      "uid" : "cdf1fbf1817c0222",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id=login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652638254344,
+        "stop" : 1652638262767,
+        "duration" : 8423
+      }
+    }, {
+      "uid" : "9788743d66b9f3a",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id=/login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652637953569,
+        "stop" : 1652637959472,
+        "duration" : 5903
+      }
+    }, {
+      "uid" : "13cb6277af5bdc05",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:/login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652637838939,
+        "stop" : 1652637847844,
+        "duration" : 8905
+      }
+    }, {
+      "uid" : "c943f58ba17fe4f3",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id=login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652637704094,
+        "stop" : 1652637710156,
+        "duration" : 6062
+      }
+    }, {
+      "uid" : "fb53609bace008fc",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id=com.woocommerce.android:id/login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652637563883,
+        "stop" : 1652637569845,
+        "duration" : 5962
+      }
+    }, {
+      "uid" : "43babdbe9a962000",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.ScrollView/android.view.ViewGroup/android.widget.Button[3]\" because element wasn't found",
+      "time" : {
+        "start" : 1652637105321,
+        "stop" : 1652637114808,
+        "duration" : 9487
+      }
+    }, {
+      "uid" : "f9b89cd906dac32e",
+      "status" : "failed",
+      "statusDetails" : "Invalid CSS selector '#com.woocommerce.android:id/login_site_creds'. Reason: 'Error: Rule expected but \"/\" found.'",
+      "time" : {
+        "start" : 1652636963674,
+        "stop" : 1652636969028,
+        "duration" : 5354
+      }
+    }, {
+      "uid" : "1f4b784862ad1c36",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652636733458,
+        "stop" : 1652636741126,
+        "duration" : 7668
+      }
+    }, {
+      "uid" : "74e9ee164f4171a6",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"android=new UiSelector().text(\"Continue with store credentials\")\" because element wasn't found",
+      "time" : {
+        "start" : 1652636576202,
+        "stop" : 1652636583097,
+        "duration" : 6895
+      }
+    }, {
+      "uid" : "174538fcd052ca8f",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652636464321,
+        "stop" : 1652636469643,
+        "duration" : 5322
+      }
+    }, {
+      "uid" : "befca0d7c2a8c10e",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652636351287,
+        "stop" : 1652636356947,
+        "duration" : 5660
+      }
+    }, {
+      "uid" : "7725ba9e44492cb9",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:button_login_store\" because element wasn't found",
+      "time" : {
+        "start" : 1652636268203,
+        "stop" : 1652636273615,
+        "duration" : 5412
+      }
+    }, {
+      "uid" : "e16b097671f25bcd",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//android.widget.Button[3]\" because element wasn't found",
+      "time" : {
+        "start" : 1652636002825,
+        "stop" : 1652636012114,
+        "duration" : 9289
+      }
+    }, {
+      "uid" : "413a6d45f2007705",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"h1=Continue with store credentials\" because element wasn't found",
+      "time" : {
+        "start" : 1652635829528,
+        "stop" : 1652635838952,
+        "duration" : 9424
+      }
+    }, {
+      "uid" : "33481da994db1fcc",
+      "status" : "broken",
+      "statusDetails" : "Locator Strategy 'link text' is not supported for this session",
+      "time" : {
+        "start" : 1652635697708,
+        "stop" : 1652635701693,
+        "duration" : 3985
+      }
+    }, {
+      "uid" : "9343e112390f4b2b",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:com.woocommerce.android:id/login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652635465458,
+        "stop" : 1652635472197,
+        "duration" : 6739
+      }
+    }, {
+      "uid" : "8bbfffe47b05f253",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"id:login_site_creds\" because element wasn't found",
+      "time" : {
+        "start" : 1652634911421,
+        "stop" : 1652634919798,
+        "duration" : 8377
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "961c6d3e9c045761.json",
+  "parameterValues" : [ "ebac-qe 11.0-11" ]
+}

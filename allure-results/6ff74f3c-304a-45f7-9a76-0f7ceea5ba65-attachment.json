@@ -1,0 +1,10 @@
+{
+  "script": "mobile:scroll",
+  "args": [
+    {
+      "direction": "down",
+      "strategy": "accessibility id",
+      "selector": "~login_site_creds"
+    }
+  ]
+}

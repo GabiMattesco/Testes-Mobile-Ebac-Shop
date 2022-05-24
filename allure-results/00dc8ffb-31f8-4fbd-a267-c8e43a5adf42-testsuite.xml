@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652636464320' stop='1652636469645'>
+    <name>Access Admin Panel</name>
+    <title>Access Admin Panel</title>
+    <test-cases>
+        <test-case start='1652636464321' status='broken' stop='1652636469643'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-qe 11.0-11'/>
+            </parameters>
+            <steps>
+                <step start='1652636464332' status='passed' stop='1652636464596'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='cd9b48f4-faed-4133-9a3b-882a4fc6a322-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='c119b3fe-a973-4870-ba72-9ee58c0c5883-attachment.json' type='application/json' size='569'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636464636' status='passed' stop='1652636464714'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='3b20c647-2a16-43a1-9b87-507091467c05-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='e48643b3-3adf-4596-8c1b-10a24efc0a76-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636465145' status='passed' stop='1652636465216'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='76bda3fc-68e1-4697-af17-1d2f2740e3a6-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='93fabde7-3e78-4a3c-ba3c-ea48cdcefb46-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636465636' status='passed' stop='1652636465715'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='9a76d03d-7bcd-480d-8cf6-305aa850edec-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='a98ea2e3-4ed6-4d49-b4f4-e96797cbb362-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636466143' status='passed' stop='1652636466219'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='e6ca6565-1532-46ea-8699-7eaf7792ec7d-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='e530c0d9-06c8-458b-82bf-2fee766f7c95-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636466635' status='passed' stop='1652636466697'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='e039647a-41a2-4b4e-ab76-6f3b36a2fb37-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='aea2f832-4715-4ef7-8873-081bfa125da9-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636467143' status='passed' stop='1652636467213'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='51f6d284-fa8f-4ac7-a7ac-ad115ef4c723-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='01f4b4ca-8ba7-495f-b71b-4e39a4baa801-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636467649' status='passed' stop='1652636467705'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='9deb8c83-c4e5-4219-ab90-f4af7a2bddd2-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='3e91a6d7-72ae-41a9-b46c-b49096bc9cac-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636468150' status='passed' stop='1652636468206'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='2b7afe26-bc52-441e-b253-7e5b0813c10a-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='18148bb8-d0d5-4d58-ae70-dc9386b351d6-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636468640' status='passed' stop='1652636468715'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='cf217e42-e62b-4891-b159-3bec10601d24-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='43f07bd7-f22c-495f-8fbf-f7b81a4944c7-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652636469147' status='passed' stop='1652636469229'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='05755e38-4fa6-4d76-980f-9b70cd458bac-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='d25e5361-7dd6-42b0-9ef3-d3ed192bf160-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Can't call click on element with selector "id:button_login_store" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "id:button_login_store" because element wasn't found
+                    at implicitWait (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at async Element.elementErrorHandlerCallbackFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriverio\build\middlewares.js:20:29)
+                    at async Element.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async HomeScreen.goToLogin (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\screens\home.screen.js:7:8)
+                    at async Context.&lt;anonymous> (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\specs\login.spec.js:11:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

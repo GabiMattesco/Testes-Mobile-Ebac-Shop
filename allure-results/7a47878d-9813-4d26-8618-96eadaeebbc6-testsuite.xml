@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652671097903' stop='1652671113058'>
+    <name>Access Admin Panel</name>
+    <title>Access Admin Panel</title>
+    <test-cases>
+        <test-case start='1652671097904' status='broken' stop='1652671113051'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-qe 11.0-11'/>
+            </parameters>
+            <steps>
+                <step start='1652671097911' status='passed' stop='1652671098363'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='59728742-597d-480c-96cf-5bb43bade27d-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='8056eb8b-0339-41cf-b202-41a97e607b58-attachment.json' type='application/json' size='136'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652671098380' status='passed' stop='1652671098522'>
+                    <name>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000011/click</name>
+                    <title>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000011/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1652671098527' status='broken' stop='1652671113051'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='c893bb08-2578-4888-ae6e-6d613f25a21a-attachment.json' type='application/json' size='163'/>
+                    </attachments>
+                    <steps>
+                        <step start='1652671098538' status='passed' stop='1652671110364'>
+                            <name>POST /session/:sessionId/element</name>
+                            <title>POST /session/:sessionId/element</title>
+                            <attachments>
+                                <attachment title='Request' source='ade26350-af39-41ca-9efb-ce1093968c79-attachment.json' type='application/json' size='65'/>
+                                <attachment title='Response' source='d74c6bb2-2baa-469d-98d3-d051c11d0fbe-attachment.json' type='application/json' size='4169'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1652671110365' status='passed' stop='1652671110407'>
+                            <name>POST /session/:sessionId/element</name>
+                            <title>POST /session/:sessionId/element</title>
+                            <attachments>
+                                <attachment title='Request' source='87f18f2e-8204-45ac-a8b3-f7b03bd3229b-attachment.json' type='application/json' size='370'/>
+                                <attachment title='Response' source='8abd79b6-9d95-4d92-b4b6-a9606433209d-attachment.json' type='application/json' size='136'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1652671110420' status='passed' stop='1652671110893'>
+                            <name>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000026/clear</name>
+                            <title>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000026/clear</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1652671110910' status='passed' stop='1652671112334'>
+                            <name>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000026/value</name>
+                            <title>POST /session/:sessionId/element/00000000-0000-0041-ffff-ffff00000026/value</title>
+                            <attachments>
+                                <attachment title='Request' source='e23f558c-b768-403c-bbfb-ca8d37b26d07-attachment.json' type='application/json' size='50'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>org.eclipse.wst.xml.xpath2.processor.XPathParserException: CUP parser error: Parser error: line 1 col 3: /</message>
+                <stack-trace>invalid selector: org.eclipse.wst.xml.xpath2.processor.XPathParserException: CUP parser error: Parser error: line 1 col 3: /
+                    at getErrorFromResponseBody (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\utils.js:197:12)
+                    at NodeJSRequest._request (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\request\index.js:166:60)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Browser.$ (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriverio\build\commands\browser\$.js:91:17)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async LoginScreen.continue (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\screens\login.screen.js:31:9)
+                    at async Context.&lt;anonymous> (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\specs\login.spec.js:13:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

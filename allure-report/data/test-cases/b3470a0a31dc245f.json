@@ -1,0 +1,105 @@
+{
+  "uid" : "b3470a0a31dc245f",
+  "name" : "should login with valid credentials",
+  "fullName" : "Access Admin Panel.should login with valid credentials",
+  "historyId" : "d0ff5b0df68724104105ffdc3d849f88",
+  "time" : {
+    "start" : 1653396965444,
+    "stop" : 1653396995032,
+    "duration" : 29588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a1b185452b9da214",
+      "name" : "Execution video",
+      "source" : "a1b185452b9da214.mp4",
+      "type" : "video/mp4",
+      "size" : 48
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testClass",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Access Admin Panel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "samsung galaxy note 20-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97e60d6c28f962e4",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1653396650217,
+        "stop" : 1653396670955,
+        "duration" : 20738
+      }
+    }, {
+      "uid" : "5b76bffe574d608d",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1653394741663,
+        "stop" : 1653394762127,
+        "duration" : 20464
+      }
+    }, {
+      "uid" : "d254dde76a997c6a",
+      "status" : "broken",
+      "statusDetails" : "element (\"id:button_login_store\") still not existing after 20000ms",
+      "time" : {
+        "start" : 1653342576473,
+        "stop" : 1653342596919,
+        "duration" : 20446
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3470a0a31dc245f.json",
+  "parameterValues" : [ "samsung galaxy note 20-10.0" ]
+}

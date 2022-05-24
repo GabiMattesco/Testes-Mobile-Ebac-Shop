@@ -4,7 +4,8 @@ class HomeScreen {
     }
 
     async goToLogin(){
-        this.#enterStoreAddress.click()
+       await this.#enterStoreAddress.waitForExist({ timeout: 20000 })
+       await this.#enterStoreAddress.click()
     }
 }
 

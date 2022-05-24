@@ -1,0 +1,1199 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "2a0d7592b6344a6a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878685131,
+        "stop" : 1652878699376,
+        "duration" : 14245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "43babdbe9a962000",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652637105321,
+        "stop" : 1652637114808,
+        "duration" : 9487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fd4f781f1762f208",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652639891977,
+        "stop" : 1652639899855,
+        "duration" : 7878
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fbd14f9747a44e40",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652797618966,
+        "stop" : 1652797644990,
+        "duration" : 26024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "174538fcd052ca8f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636464321,
+        "stop" : 1652636469643,
+        "duration" : 5322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "bf077919fba5f950",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652672986980,
+        "stop" : 1652673004898,
+        "duration" : 17918
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "961c6d3e9c045761",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653396349758,
+        "stop" : 1653396410101,
+        "duration" : 60343
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 65,
+      "retriesStatusChange" : true,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "1a9cb69c7a0d77d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652877056404,
+        "stop" : 1652877066844,
+        "duration" : 10440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "862c6ef3d9bf7a8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652670754872,
+        "stop" : 1652670758902,
+        "duration" : 4030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "13cb6277af5bdc05",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652637838939,
+        "stop" : 1652637847844,
+        "duration" : 8905
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "45646d5cd88b376a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878437303,
+        "stop" : 1652878442482,
+        "duration" : 5179
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "29cb8b155cbf85e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652670822830,
+        "stop" : 1652670840497,
+        "duration" : 17667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "cc0801adb5e961a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652794654917,
+        "stop" : 1652794679774,
+        "duration" : 24857
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "94814b94a5555884",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652797934482,
+        "stop" : 1652797970305,
+        "duration" : 35823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "68e0307bb5a1174d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652799341563,
+        "stop" : 1652799370891,
+        "duration" : 29328
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "254cc0f0c1f232ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652671097904,
+        "stop" : 1652671113051,
+        "duration" : 15147
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "cdf1fbf1817c0222",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652638254344,
+        "stop" : 1652638262767,
+        "duration" : 8423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "d0bd51b85eae9c7e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878759750,
+        "stop" : 1652878764881,
+        "duration" : 5131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "a998ed254bfd7635",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652670957454,
+        "stop" : 1652670974982,
+        "duration" : 17528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "3d4eb8b0184a2e52",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652796165078,
+        "stop" : 1652796190560,
+        "duration" : 25482
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "ad2174e0d1e63b29",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652638363172,
+        "stop" : 1652638387955,
+        "duration" : 24783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "38c3b335b33640f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653395431683,
+        "stop" : 1653395470984,
+        "duration" : 39301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "8cbf0be4ba124ae7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653396118192,
+        "stop" : 1653396174393,
+        "duration" : 56201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "2cb0d2bcae8d0be1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652794418543,
+        "stop" : 1652794457264,
+        "duration" : 38721
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "befca0d7c2a8c10e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636351287,
+        "stop" : 1652636356947,
+        "duration" : 5660
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e5980bb7b3d089fb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878340845,
+        "stop" : 1652878370982,
+        "duration" : 30137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "d254dde76a997c6a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653342576473,
+        "stop" : 1653342596919,
+        "duration" : 20446
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "samsung galaxy note 20-10.0" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "afb532a6b63bd5a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652797422522,
+        "stop" : 1652797448640,
+        "duration" : 26118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "7725ba9e44492cb9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636268203,
+        "stop" : 1652636273615,
+        "duration" : 5412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "28376617bafe694",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652796344516,
+        "stop" : 1652796380714,
+        "duration" : 36198
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e16b097671f25bcd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636002825,
+        "stop" : 1652636012114,
+        "duration" : 9289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "a51ccd0633bc6f4f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652640090882,
+        "stop" : 1652640097788,
+        "duration" : 6906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "5d0588dc210b3f72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652877512567,
+        "stop" : 1652877532725,
+        "duration" : 20158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b0ab57fee2421e23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878994216,
+        "stop" : 1652879014386,
+        "duration" : 20170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "5b76bffe574d608d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653394741663,
+        "stop" : 1653394762127,
+        "duration" : 20464
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "samsung galaxy note 20-10.0" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "9788743d66b9f3a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652637953569,
+        "stop" : 1652637959472,
+        "duration" : 5903
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "f1678b201dd9a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652799887144,
+        "stop" : 1652799913170,
+        "duration" : 26026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e5c5a4e6f1eae264",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653395889541,
+        "stop" : 1653395922771,
+        "duration" : 33230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fcf2010d19349b49",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652639312023,
+        "stop" : 1652639324938,
+        "duration" : 12915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e7f1caedb74835b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652876894361,
+        "stop" : 1652876921799,
+        "duration" : 27438
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "74e9ee164f4171a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636576202,
+        "stop" : 1652636583097,
+        "duration" : 6895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "cb87e9a04d8217d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652877156767,
+        "stop" : 1652877161945,
+        "duration" : 5178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "8bbfffe47b05f253",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652634911421,
+        "stop" : 1652634919798,
+        "duration" : 8377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "c6808de7d543f1bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652639779069,
+        "stop" : 1652639785638,
+        "duration" : 6569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "bbb7aae3cb113089",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652877289950,
+        "stop" : 1652877300100,
+        "duration" : 10150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "6b3d4e470473aeb7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878562944,
+        "stop" : 1652878601726,
+        "duration" : 38782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "9343e112390f4b2b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652635465458,
+        "stop" : 1652635472197,
+        "duration" : 6739
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "33481da994db1fcc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652635697708,
+        "stop" : 1652635701693,
+        "duration" : 3985
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "57eecee2cadf6f61",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878184479,
+        "stop" : 1652878204490,
+        "duration" : 20011
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "30a41e057060453a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653395186677,
+        "stop" : 1653395226908,
+        "duration" : 40231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fa546ede5c43c8ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653395658101,
+        "stop" : 1653395698200,
+        "duration" : 40099
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "4b8709c7ef67bf66",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652639601615,
+        "stop" : 1652639609722,
+        "duration" : 8107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "6e12e62893383e5e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652795374575,
+        "stop" : 1652795403817,
+        "duration" : 29242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "1f4b784862ad1c36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652636733458,
+        "stop" : 1652636741126,
+        "duration" : 7668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "f9b89cd906dac32e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652636963674,
+        "stop" : 1652636969028,
+        "duration" : 5354
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "15f51a93026d4c61",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652877345441,
+        "stop" : 1652877365566,
+        "duration" : 20125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "ea90c193cf6252c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652797107521,
+        "stop" : 1652797135519,
+        "duration" : 27998
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "da9545b223162f5a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878834800,
+        "stop" : 1652878839943,
+        "duration" : 5143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "148accd3f347d544",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652795814444,
+        "stop" : 1652795839059,
+        "duration" : 24615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b782792bb418f923",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652669698150,
+        "stop" : 1652669705164,
+        "duration" : 7014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "c400a7fbc0e2bcdd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878269260,
+        "stop" : 1652878289413,
+        "duration" : 20153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fb53609bace008fc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652637563883,
+        "stop" : 1652637569845,
+        "duration" : 5962
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b3470a0a31dc245f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653396965444,
+        "stop" : 1653396995032,
+        "duration" : 29588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "samsung galaxy note 20-10.0" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "413a6d45f2007705",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652635829528,
+        "stop" : 1652635838952,
+        "duration" : 9424
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "97e60d6c28f962e4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653396650217,
+        "stop" : 1653396670955,
+        "duration" : 20738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "samsung galaxy note 20-10.0" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "4334dfcf9702642e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652830938058,
+        "stop" : 1652830968417,
+        "duration" : 30359
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b2021c8443910d2a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652878922091,
+        "stop" : 1652878942245,
+        "duration" : 20154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "6c17805b1e7abcd1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652796090850,
+        "stop" : 1652796115471,
+        "duration" : 24621
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "2d45bd40d3fccb57",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652639485484,
+        "stop" : 1652639493016,
+        "duration" : 7532
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "c943f58ba17fe4f3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652637704094,
+        "stop" : 1652637710156,
+        "duration" : 6062
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

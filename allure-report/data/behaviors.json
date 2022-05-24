@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should login with valid credentials",
+    "uid" : "961c6d3e9c045761",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653396349758,
+      "stop" : 1653396410101,
+      "duration" : 60343
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 65,
+    "retriesStatusChange" : true,
+    "parameters" : [ "ebac-qe 11.0-11" ]
+  }, {
+    "name" : "should login with valid credentials",
+    "uid" : "b3470a0a31dc245f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653396965444,
+      "stop" : 1653396995032,
+      "duration" : 29588
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : true,
+    "parameters" : [ "samsung galaxy note 20-10.0" ]
+  } ]
+}

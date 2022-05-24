@@ -1,0 +1,80 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652670754871' stop='1652670758907'>
+    <name>Access Admin Panel</name>
+    <title>Access Admin Panel</title>
+    <test-cases>
+        <test-case start='1652670754872' status='broken' stop='1652670758902'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ebac-qe 11.0-11'/>
+            </parameters>
+            <steps>
+                <step start='1652670754877' status='passed' stop='1652670755343'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='1dcb8c5b-ccc4-4d0d-a70f-cb83dd2cfc71-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='e95534de-b743-4936-a5cb-7f671ce27287-attachment.json' type='application/json' size='136'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1652670755380' status='passed' stop='1652670755491'>
+                    <name>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000011/click</name>
+                    <title>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000011/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1652670755492' status='broken' stop='1652670758901'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='de74ecda-e342-49ef-a3c6-c56bcb726a95-attachment.json' type='application/json' size='149'/>
+                    </attachments>
+                    <steps>
+                        <step start='1652670755506' status='passed' stop='1652670756049'>
+                            <name>POST /session/:sessionId/element</name>
+                            <title>POST /session/:sessionId/element</title>
+                            <attachments>
+                                <attachment title='Request' source='1986d92d-d3f6-46a7-91f1-e33f7835b50c-attachment.json' type='application/json' size='65'/>
+                                <attachment title='Response' source='8b9814bd-f56e-4788-89ef-f8b5039a5836-attachment.json' type='application/json' size='136'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1652670756063' status='passed' stop='1652670757397'>
+                            <name>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000026/clear</name>
+                            <title>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000026/clear</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1652670757414' status='passed' stop='1652670758845'>
+                            <name>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000026/value</name>
+                            <title>POST /session/:sessionId/element/00000000-0000-0023-ffff-ffff00000026/value</title>
+                            <attachments>
+                                <attachment title='Request' source='fe7f8069-eb13-4696-bea7-6de092c18a77-attachment.json' type='application/json' size='50'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Unsupported strategy: 'id'. The only supported strategies are: [accessibility id, class name, -android uiautomator].</message>
+                <stack-trace>invalid argument: Unsupported strategy: 'id'. The only supported strategies are: [accessibility id, class name, -android uiautomator].
+                    at getErrorFromResponseBody (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\utils.js:197:12)
+                    at NodeJSRequest._request (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\webdriver\build\request\index.js:166:60)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Browser.wrapCommandFn (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async LoginScreen.continue (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\screens\login.screen.js:30:9)
+                    at async Context.&lt;anonymous> (C:\repositorio\Testes-Mobile-Ebac-Shop\Testes-Mobile-Ebac-Shop\test\specs\login.spec.js:13:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

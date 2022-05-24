@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Access Admin Panel",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "961c6d3e9c045761",
+      "parentUid" : "68f41d03a0b8d648a09194718213b826",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653396349758,
+        "stop" : 1653396410101,
+        "duration" : 60343
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 65,
+      "retriesStatusChange" : true,
+      "parameters" : [ "ebac-qe 11.0-11" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b3470a0a31dc245f",
+      "parentUid" : "68f41d03a0b8d648a09194718213b826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653396965444,
+        "stop" : 1653396995032,
+        "duration" : 29588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "samsung galaxy note 20-10.0" ]
+    } ],
+    "uid" : "68f41d03a0b8d648a09194718213b826"
+  } ]
+}
